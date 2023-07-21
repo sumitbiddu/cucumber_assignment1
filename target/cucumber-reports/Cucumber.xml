@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.514">
+    <testcase classname="PHPTRAVELS Application testing" name="TestCase - Add android mobile to the cart" time="0.192">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given Opening the browser...................................................undefined
+And Enter username..........................................................skipped
+When Enter password.........................................................skipped
+And click checkbox..........................................................skipped
+And click login.............................................................skipped
+Then click services.........................................................skipped
+And click mobile............................................................skipped
+Then click order............................................................skipped
+Then click add to cart......................................................skipped
+And validate product........................................................skipped
+And click checkout..........................................................skipped
+And click complete order....................................................skipped
+Then print invoice..........................................................skipped
+]]></failure>
+    </testcase>
+</testsuite>

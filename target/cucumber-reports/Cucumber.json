@@ -1,0 +1,173 @@
+[
+  {
+    "line": 20,
+    "elements": [
+      {
+        "start_timestamp": "2023-07-21T02:29:09.121Z",
+        "line": 24,
+        "name": "TestCase - Add android mobile to the cart",
+        "description": "",
+        "id": "phptravels-application-testing;testcase---add-android-mobile-to-the-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 25,
+            "name": "Opening the browser",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 487000,
+              "status": "skipped"
+            },
+            "line": 26,
+            "name": "Enter username",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 573000,
+              "status": "skipped"
+            },
+            "line": 27,
+            "name": "Enter password",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 932000,
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "click checkbox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 316000,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "click login",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 585000,
+              "status": "skipped"
+            },
+            "line": 30,
+            "name": "click services",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 694000,
+              "status": "skipped"
+            },
+            "line": 31,
+            "name": "click mobile",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3431000,
+              "status": "skipped"
+            },
+            "line": 32,
+            "name": "click order",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1427000,
+              "status": "skipped"
+            },
+            "line": 33,
+            "name": "click add to cart",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 291000,
+              "status": "skipped"
+            },
+            "line": 34,
+            "name": "validate product",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 322000,
+              "status": "skipped"
+            },
+            "line": 35,
+            "name": "click checkout",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 268000,
+              "status": "skipped"
+            },
+            "line": 36,
+            "name": "click complete order",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 369000,
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "print invoice",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@testcase"
+          },
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "PHPTRAVELS Application testing",
+    "description": "  Adding the mobile in the cart",
+    "id": "phptravels-application-testing",
+    "keyword": "Feature",
+    "uri": "file:src/main/java/feature/TestCase.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 19,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
