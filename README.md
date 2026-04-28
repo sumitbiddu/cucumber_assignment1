@@ -1,18 +1,16 @@
-# Selenium Automation Framework (POM)
+# BDD Automation Framework (Cucumber)
 
-This project demonstrates automation using Page Object Model design pattern.
+This project demonstrates behavior-driven testing using Cucumber.
 
-## What I automated
-- Login functionality
-- Basic navigation flows
+## Features Covered
+- Login scenarios using Gherkin
+- Positive and negative test cases
 
-## Why POM?
-I used POM to:
-- Improve maintainability
-- Separate test logic from page elements
-- Make tests reusable
+## Why Cucumber?
+- Makes test cases readable for non-technical stakeholders
+- Aligns testing with business scenarios
 
 ## Tools Used
-- Selenium WebDriver
+- Selenium
+- Cucumber
 - Java
-- TestNG
