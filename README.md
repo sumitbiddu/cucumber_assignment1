@@ -46,6 +46,9 @@ Login → Navigate to Services → Select Mobile Service → Add to Cart → Che
 
 ---
 
+This project is part of my QA Automation Portfolio:
+https://github.com/sumitbiddu/qa-automation-portfolio
+
 ## Sample Feature Scenario
 
 ```gherkin
@@ -62,6 +65,4 @@ Scenario: User completes mobile service order
 
 
 
----
-This project is part of my QA Automation Portfolio:
-https://github.com/sumitbiddu/qa-automation-portfolio
+
