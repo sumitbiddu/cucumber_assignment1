@@ -58,3 +58,8 @@ Scenario: User completes mobile service order
   And user adds service to cart
   And user completes checkout process
   Then invoice should be generated successfully
+
+---
+
+This project is part of my QA Automation Portfolio:
+https://github.com/sumitbiddu/qa-automation-portfolio
